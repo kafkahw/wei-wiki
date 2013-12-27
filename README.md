@@ -13,5 +13,5 @@ Easy and user-friendly! Just modify the URL in your browser and you'll create a 
 Edit your wiki page:
 Try to click the 'edit' button at the top-right corner.
 
-Look at your the history of your wiki page:
+Look at the history of your wiki page:
 Try to click the 'history' button at the top-right corner.
